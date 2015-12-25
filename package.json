@@ -1,7 +1,7 @@
 {
   "name": "meshblu-bb-8",
   "repository": "octoblu/meshblu-bb-8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "connector.js",
   "scripts": {
     "preinstall": "node -e \"try{require('./skip-install.js')}catch(e){}\"",
