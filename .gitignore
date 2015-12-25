@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+
+# Swap and meta data files
+.DS_Store
+*.swp
+*.swo
+meshblu.json
+deploy
